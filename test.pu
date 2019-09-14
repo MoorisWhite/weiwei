@@ -3,5 +3,6 @@ title test
 
 A -> B : signal1
 B --> A : signal2
+C -> A:signal3
 
 @enduml
