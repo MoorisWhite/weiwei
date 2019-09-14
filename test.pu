@@ -4,5 +4,6 @@ title test
 A -> B : signal1
 B --> A : signal2
 C -> B:signal3
+C -> A:signal3
 
 @enduml
