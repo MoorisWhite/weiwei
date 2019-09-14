@@ -1,0 +1,7 @@
+@startuml
+title test
+
+A -> B : signal1
+B --> A : signal2
+
+@enduml
